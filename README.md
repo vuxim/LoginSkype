@@ -1,0 +1,2 @@
+# LoginSkype
+XimVT
